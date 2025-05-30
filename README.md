@@ -17,4 +17,4 @@
 ![Hostel Display Page](https://github.com/nikshitha-p-rai-29/Employee_Salary_Management/blob/main/WebAppProject/employeedisplay.jpeg)
 
 ## Employee Report Page
-![Hostel Report Form Page](https://github.com/Nishmitha-shetty17/Hostel-Management-System/blob/main/HostelWebApp/pfr.png)
+![Hostel Report Form Page](https://github.com/nikshitha-p-rai-29/Employee_Salary_Management/blob/main/WebAppProject/employeereport.jpeg)
